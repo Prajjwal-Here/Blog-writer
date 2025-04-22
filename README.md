@@ -13,7 +13,7 @@ The agent generates expert-level blog posts on a topic provided by the user.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/blog_agent.git
+   git clone https://github.com/Prajjwal-Here/blog_agent.git
    ```
 2. Navigate to the project folder:
    ```
